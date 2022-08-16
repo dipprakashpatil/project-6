@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+body {
+  width: 1520px;
+  margin: 50px auto;
+}
+
+#navbarMonstera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#navMid {
+  display: flex;
+  font-size: 28px;
+  font-weight: 200;
+  font-family: "Allerta", sans-serif;
+  align-items: center;
+}
+
+#navMid h4 {
+  padding: 0px 40px;
+}
+
+#navMid h4 span {
+  padding-bottom: 7px;
+  border-bottom: 3px solid black;
+  line-height: 48px;
+}
+
+#navEnd {
+  display: flex;
+  padding: 0px 40px;
+  align-items: center;
+}
+
+#navEnd div img {
+  padding: 0px 20px;
+}
+
+#midWhole {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+#midWholePart1 {
+  margin-top: 180px;
+}
+
+#monstera {
+    font-family: 'Allerta';
+  font-size: 150px;
+  font-weight: 700;
+
+  margin-right: 120px;
+  margin-bottom: -45px;
+}
+
+#midWholePart11 ul li {
+  font-size: 30px;
+  font-weight: 600;
+  font-family: "Abel";
+  margin-bottom: -5px;
+}
+#midWholePart121 {
+  margin-top: 100px;
+  font-family: "Abel";
+  font-weight: 300;
+  font-size: 20px;
+  color: #fff;
+  background-color: #466d50;
+  width: 25%;
+  padding: 10px 50px;
+  padding-right: 1px;
+  border-radius: 25px;
+}
+
+#midWholePart122 img {
+  float: left;
+  margin-left: 180px;
+  margin-top: -40px;
+}
+
+#midWholePart13 {
+  display: flex;
+  margin-top: 90px;
+  margin-left: -40px;;
+}
+
+.midWholePart13Parts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+.midWholePart13Parts > div > h4 {
+  font-size: 25px;
+  font-family: "Allerta";
+  font-weight: 800;
+  margin-left: 20px;
+  
+}
+
+#feeding {
+  position: relative;
+
+  height: 100px;
+}
+
+#light {
+  height: 63px;
+  margin-right: 9px;
+  position: relative;
+  bottom: 12px;
+}
+ 
+.text {
+  font-family: "Abel";
+  font-weight: 300;
+  position: relative;
+  margin-left: 20px;
+  bottom: -5px;
+  width: 200px;
+}
+/* 
+#care {
+  height: 63px;
+  position: relative;
+  bottom: 12px;
+  margin-right: 9px;
+}
+
+#imgMain {
+  position: absolute;
+  right: 0;
+  z-index: -1;
+  top: 150px;
+} */ */ */
